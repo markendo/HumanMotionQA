@@ -1,0 +1,5 @@
+NSPose/batch_scripts/
+NSPose/batch_out_logs/
+NSPose/dumps/
+tags
+*.pyc
