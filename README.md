@@ -1,6 +1,11 @@
 <p align="center">
 
   <h1 align="center">Motion Question Answering via Modular Motion Programs
+    <a href='https://arxiv.org/abs/2305.08953'>
+    <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF'>
+    </a>
+    <a href='https://web.stanford.edu/~markendo/projects/human_motion_qa' style='padding-left: 0.5rem;'>
+    <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
   </h1>
   <h3 align="center">
     <a href="https://markendo.github.io/"><strong>Mark Endo*</strong></a>
@@ -19,17 +24,6 @@
 <div>
   <img src="assets/humanmotionqa-figure.png", width="100%">
 </div>
-
-<!-- <div align="center>
-  <img src="assets/humanmotionqa-figure.png" width="100%">
-</div> -->
-<!-- ![](assets/humanmotionqa-figure.png) -->
-
-
-<!-- <p float="center">
-  <img src="assets/action2.gif" width="49%" />
-  <img src="assets/action3.gif" width="49%" />
-</p> -->
 
 We split our repository into two sections, one for our proposed [`BABEL-QA`](BABEL-QA/) dataset and the other for our [`NSPose`](NSPose/) method.
 
