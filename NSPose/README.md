@@ -14,6 +14,8 @@ Install [Jacinle](https://github.com/vacancy/Jacinle).
 
 ### Evaluation
 
+Weights for our trained NSPose model can be found [here](https://drive.google.com/drive/folders/1Fjcd45zVQ05BH6sdFVh9Pm9mULJ6Wi2t?usp=sharing) and loaded into `load_path`. Set `data_dir` to where the BABEL-QA dataset is stored.
+
 To evaluate NSPose:
 
 ```bash
@@ -29,10 +31,6 @@ To evaluate NSPose:
   --load $load_path \
   --evaluate
 ```
-
-Weights for our trained NSPose model can be found at TBD and loaded into `load_path`.
-
-
 
 ### Training
 
